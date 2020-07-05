@@ -6,4 +6,4 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/BrunoLucas/config-server
+          uri: https://github.com/BrunoLucas/transaction-configs
